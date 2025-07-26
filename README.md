@@ -7,7 +7,7 @@ This project was inspired by [this video](https://youtu.be/Kt3DavtVGVE?si=bNtb1q
 
 Made by [NoomStuff](https://github.com/NoomStuff).  
 Licensed under the MIT License. See [LICENSE](LICENSE).  
-You are free to use the project however you want, but please consider providing credit when you use it.
+You are free to use the project however you want, it would be appreciated if you would provide credit when modifying, redistributing or showcasing my work.
 
 ---
 
@@ -70,5 +70,12 @@ All settings are located in the `settings` object at the top of `polyrhythm.js`.
 
 - **`hitSounds`**:  
   Which instrument to use for ball impacts, will grab sounds from `sfx/<instrument>/hit<number>`.  (`"bell"`, `"vibraphone"`, `"hammond"`, `"marimba"`)
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+> See the [LICENSE](LICENSE) file for full details.
 
 ---
